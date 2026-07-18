@@ -46,7 +46,7 @@ arduino/rc_car.ino
 ```
 index.html
 style.css
-scipt5.js
+scipt.js
 ```
 
 ## Future Improvements
